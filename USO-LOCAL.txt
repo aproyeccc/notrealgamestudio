@@ -1,0 +1,3 @@
+Copia local para análisis privado, generada desde el HAR que tú exportaste.
+Inicia con abrir-a24.bat desde la carpeta del reparador.
+No contiene el proyecto editable original ni autorización de redistribución.
